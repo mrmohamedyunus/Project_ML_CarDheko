@@ -88,6 +88,11 @@ For any questions or suggestions, please feel free to reach out at [mryunus.in@g
 
 ---
 
-"C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot (94).png"
+# Car Price Prediction Using Machine Learning
+
+![Car Price Prediction]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot (94).png")
+
+This repository showcases a comprehensive machine learning project...
+
 
 ---
