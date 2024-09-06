@@ -71,9 +71,6 @@ To run the Jupyter Notebook and Streamlit application, the following software an
 
 This project utilizes data from CarDekho and leverages several open-source libraries, including Scikit-learn for machine learning and Streamlit for application deployment.
 
-## **License**
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## **References**
 
